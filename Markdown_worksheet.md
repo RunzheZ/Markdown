@@ -160,7 +160,7 @@ Create unordered lists using '-', '*', '+,
     - sdfsd
 -->
 
-- item
+- item change signal will have different interval
 * item
 + item
 + item
