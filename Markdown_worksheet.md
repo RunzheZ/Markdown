@@ -12,6 +12,7 @@ Specifically, Visual Studio Code uses the [CommonMark](http://commonmark.org/) M
   - [Quotes](#quotes)
   - [> # This is really big quote](#--this-is-really-big-quote)
   - [Emphasis](#emphasis)
+  - [Empty Line and Space](#empty-line-and-space)
   - [Horizontal Rule](#horizontal-rule)
   - [Lists](#lists)
   - [Links](#links)
@@ -117,6 +118,13 @@ This is my _italicized_ word and this is my **world**.
 
 ---
 
+## Empty Line and Space
+We need to type work in new line, to add to spaces at the end of line.
+>Example: add two spaces to change line in one quote  
+This is an example. Or we can use <br/> 
+to change line.
+This command "&nbsp;" is to add space.
+ 
 ## Horizontal Rule
 A horizontal rule gives a visible line break.  You can create one by putting three or more hypens, asterisks, or underscores (-, *, _).
 
